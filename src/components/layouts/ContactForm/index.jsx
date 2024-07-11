@@ -64,8 +64,8 @@ const ContactForm = () => {
   };
 
   return (
-    <div className="w-screen flex justify-center bg-black text-white mt-10">
-      <div className="flex flex-col justify-center p-10 rounded-lg bg-gray-900 w-1/3">
+    <div className="w-screen flex justify-center bg-black text-white mt-2 md:mt-10">
+      <div className="flex flex-col justify-center p-10 md:rounded-lg bg-gray-900 md:w-2/3 lg:w-1/3">
         <div className="mb-8">
           <h3 className="text-2xl font-bold">We'd love to hear from you</h3>
           <p className="text-gray-400">
